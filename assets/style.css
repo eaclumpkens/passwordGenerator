@@ -52,6 +52,9 @@ header h1 {
 
 .card-body {
     height: 6rem;
+    padding: 0;
+    margin: 0;
+    overflow: scroll;
 }
 
 .card-footer {
