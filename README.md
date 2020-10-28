@@ -64,7 +64,6 @@ Currently no testing
 ### Images
 ##### App Demo
 ![app-demo-01](./assets/images/app-demo-1.gif)
-![app-demo-02](./assets/images/app-demo-02.gif)
 
 ----
 
