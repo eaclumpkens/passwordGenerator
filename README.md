@@ -63,8 +63,7 @@ Currently no testing
 <a name="images"></a>
 ### Images
 ##### App Demo
-![app-demo-01](./assets/images/app-demo-1.gif)
-![app-demo-02](./assets/images/app-demo-02.gif)
+![app-demo-01](./assets/images/app-demo-01.gif)
 
 ----
 
